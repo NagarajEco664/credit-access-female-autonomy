@@ -1,4 +1,5 @@
-# Financial Inclusion, Spatial Moderation, and Intra-Household Bargaining
+# FINANCIAL INCLUSION, WOMEN’S AGENCY, AND HOUSEHOLD INCOME: EVIDENCE FROM INTRA-HOUSEHOLD PATHWAYS IN INDIA
+
 
 This repository houses the microdata-based empirical research, econometric models, and publication-grade LaTeX manuscript investigating the structural channels linking financial inclusion, urban-rural spatial environments, and intra-household agency to household economic welfare in emerging economies.
 
@@ -21,7 +22,7 @@ This study evaluates whether credit access yields uniform economic returns and w
 
 ---
 
-## Econometric Framework
+## Econometric   Models
 
 The empirical analysis employs a sequential four-model architecture:
 
@@ -30,11 +31,3 @@ The empirical analysis employs a sequential four-model architecture:
 3. **Model 3 (First-Stage Mediator Model):** Evaluates structural predictors of the composite Female Autonomy Index on the matched sample ($N = 929$, $R^2 = 0.0435$).
 4. **Model 4 (Two-Step Mediation Outcome Model):** Simultaneously incorporates treatment and mediator variables to test transmission pathways to aggregate income ($N = 929$, $R^2 = 0.191$).
 
----
-
-## Key Policy Implications
-
-* **De-emphasize Uncritical Credit Expansion:** Rural credit injections fail to yield direct baseline income returns without supportive local infrastructure.
-* **Prioritize Spatial Integration:** Public investments must actively bridge urban-rural infrastructure gaps to ensure financial inclusion instruments can effectively leverage local markets.
-* **Target Intra-Household Structures:** Female empowerment initiatives cannot rely on financial tools in isolation, as traditional household dynamics frequently block micro-loans from expanding individual agency.
-* **Focus on Baseline Asset-Building:** Development strategies must prioritize physical asset accumulation and human capital, as aggregate household welfare is structurally anchored by tangible wealth rather than short-term credit.
