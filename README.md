@@ -17,6 +17,7 @@ This study evaluates whether credit access yields uniform economic returns and w
 * **`combine final.pdf`** — Integrated empirical report compiling all analytical stages.
 * **`data.pdf`** — Summary documentation of the underlying empirical dataset and variable definitions.
 * **`female_autonomy_mediation_analysis.omv`** — Jamovi statistical analysis file for agency and mediation modeling.
+* **`22626-0001-Codebook.pdf`** — Comprehensive database codebook containing variable definitions and coding schemes.
 
 ---
 
