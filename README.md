@@ -11,7 +11,7 @@ This study evaluates whether credit access yields uniform economic returns and w
 
 ---
 
-## Repository Structure
+## Structure
 
 * **`financial_inclusion_research_paper.tex`** — The primary LaTeX source code for the publication-grade research manuscript.
 * **`mod2.pdf` / `mod3.pdf` / `mod4.pdf` / `mod5.pdf`** — Analytical module outputs and econometric specifications.
